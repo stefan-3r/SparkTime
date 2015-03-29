@@ -1,7 +1,7 @@
 {
-  "name": "SparkTime",
-  "author": "Brian Ogilvie <bko@pobox.com>",
+  "name": "SparkTimeGerman",
+  "author": "Stefan Dreyer <stefan.3r@gmx.de>",
   "license": "MIT",
-  "version": "0.0.4",
-  "description": "A Spark Library for NTP time"
+  "version": "0.0.1",
+  "description": "A Spark Library for NTP time - in german, based on bkobkobko's work"
 }
