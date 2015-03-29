@@ -28,7 +28,7 @@
 
 */
 
-#include "SparkTime.h"
+#include "SparkTimeGerman.h"
 
 SparkTime::SparkTime()
 {
